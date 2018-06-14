@@ -1,0 +1,22 @@
+data/xml/ANONYMUS.xml does not use the 'fragment' tag
+data/xml/ARISTODEMUS.xml does not use the 'fragment' tag
+data/xml/CRITOBULUS.xml does not use the 'fragment' tag
+data/xml/DIONYSIUS_BYZANTIUS.xml does not use the 'fragment' tag
+data/xml/EUSEBIUS.xml does not use the 'fragment' tag
+urn:lofts:fhg.5-1.joannes_antiochenus:214 fragment id 1 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:214.a fragment id 2 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:214.b fragment id 3 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:214.c fragment id 4 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:214.d fragment id 5 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:214.e fragment id 6 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:217.a fragment id 7 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:217.b fragment id 8 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:218.b fragment id 9 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:218.c fragment id 10 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:218.d fragment id 11 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:218.e fragment id 12 has no Latin text
+urn:lofts:fhg.5-1.joannes_antiochenus:218.f fragment id 13 has no Latin text
+urn:lofts:fhg.5-1.joannes_malala:1 fragment id 1 has no Latin text
+urn:lofts:fhg.5-1.joannes_malala:2 fragment id 2 has no Latin text
+data/xml/PHOTIUS.xml does not use the 'fragment' tag
+data/xml/PRISCUS.xml does not use the 'fragment' tag

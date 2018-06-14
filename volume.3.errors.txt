@@ -1,0 +1,397 @@
+urn:lofts:fhg.3.agatharchides_cnidius:19 fragment id 20 has no Latin text
+urn:lofts:fhg.3.agatharchides_cnidius:20 fragment id 21 has no Latin text
+urn:lofts:fhg.3.agatharchides_cnidius:20 fragment id 22 has no Latin text
+urn:lofts:fhg.3.alexander_ephesius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.alexandrides_delphus:7 fragment id 8 has no Latin text
+urn:lofts:fhg.3.antisthenes_rhodius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.apion_oasita:5 fragment id 9 has no Latin text
+urn:lofts:fhg.3.apion_oasita:6 fragment id 10 has no Latin text
+urn:lofts:fhg.3.apion_oasita:7 fragment id 11 has no Latin text
+urn:lofts:fhg.3.apion_oasita:8 fragment id 12 has no Latin text
+urn:lofts:fhg.3.apion_oasita:12 fragment id 16 has no Latin text
+urn:lofts:fhg.3.apion_oasita:13 fragment id 17 has no Latin text
+urn:lofts:fhg.3.apion_oasita:17 fragment id 21 has no Latin text
+urn:lofts:fhg.3.apion_oasita:18 fragment id 22 has no Latin text
+urn:lofts:fhg.3.apion_oasita:19 fragment id 23 has no Latin text
+urn:lofts:fhg.3.apion_oasita:26 fragment id 30 has no Latin text
+urn:lofts:fhg.3.apion_oasita:28.a fragment id 33 has no Latin text
+urn:lofts:fhg.3.apion_oasita:29 fragment id 34 has no Latin text
+urn:lofts:fhg.3.apion_oasita:30 fragment id 35 has no Latin text
+urn:lofts:fhg.3.apion_oasita: fragment id 36 appears to have no Latin or Greek text
+urn:lofts:fhg.3.apion_oasita:31 fragment id 37 has no Latin text
+urn:lofts:fhg.3.aristodemus_eleus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.aristodemus_thebanus:1 fragment id 2 has no Latin text
+urn:lofts:fhg.3.aristodemus_thebanus:13 fragment id 17 appears to have no Latin or Greek text
+urn:lofts:fhg.3.arrianus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.arrianus_nicomedensis:42 fragment id 45 has no Latin text
+urn:lofts:fhg.3.artavasdes_armeniae_rex: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.asclepiades_anazarbensis: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.asclepiades_arei_filius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.asclepiades_cyprius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.asclepiades_mendesius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.asclepiades_mendesius:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:2 fragment id 3 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:3 fragment id 4 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:4 fragment id 5 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:5 fragment id 6 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:6 fragment id 7 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:7 fragment id 8 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:8 fragment id 9 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:8 fragment id 10 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:8 fragment id 11 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:9 fragment id 12 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:10 fragment id 13 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:11 fragment id 14 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:12 fragment id 15 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:13 fragment id 16 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:14 fragment id 17 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:15 fragment id 18 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:16 fragment id 19 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:17 fragment id 20 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:18 fragment id 21 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:19 fragment id 22 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:19 fragment id 23 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:20 fragment id 24 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:21 fragment id 25 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:21 fragment id 26 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:22 fragment id 27 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:23 fragment id 28 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:24 fragment id 29 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:25 fragment id 30 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:25 fragment id 31 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:26 fragment id 32 has no Latin text
+urn:lofts:fhg.3.asclepiades_tragilensis:27 fragment id 33 appears to have no Latin or Greek text
+urn:lofts:fhg.3.asclepiades_tragilensis:28 fragment id 34 has no Latin text
+urn:lofts:fhg.3.asclepiodotus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.asinius_quadratus:20 fragment id 20 has no Latin text
+urn:lofts:fhg.3.asinius_quadratus:21 fragment id 21 has no Latin text
+urn:lofts:fhg.3.aspasius_byblius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.aulus_postumius_albinus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.aulus_postumius_albinus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.c_acilius_glabrio:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.c_acilius_glabrio:2 fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.3.c_acilius_glabrio:4 fragment id 4 has no Latin text
+urn:lofts:fhg.3.c_acilius_glabrio:5 fragment id 5 has no Latin text
+urn:lofts:fhg.3.c_acilius_glabrio:6 fragment id 6 has no Latin text
+urn:lofts:fhg.3.c_acilius_glabrio:7 fragment id 7 has no Latin text
+urn:lofts:fhg.3.callicrates_tyrius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.callixenus_rhodius:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.callixenus_rhodius:3 fragment id 4 has no Latin text
+urn:lofts:fhg.3.callixenus_rhodius:3 fragment id 5 has no Latin text
+urn:lofts:fhg.3.callixenus_rhodius:3 fragment id 6 has no Latin text
+urn:lofts:fhg.3.callixenus_rhodius:3 fragment id 7 has no Latin text
+urn:lofts:fhg.3.callixenus_rhodius:3 fragment id 8 has no Latin text
+urn:lofts:fhg.3.callixenus_rhodius:4 fragment id 9 has no Latin text
+urn:lofts:fhg.3.callixenus_rhodius: fragment id 10 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cephalion:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.cephalion:1 fragment id 2 has no Latin text
+urn:lofts:fhg.3.cephalion:2 fragment id 3 has no Latin text
+urn:lofts:fhg.3.cephalion:2 fragment id 4 has no Latin text
+urn:lofts:fhg.3.chaeremon_alexandrinus:7 fragment id 7 has no Latin text
+urn:lofts:fhg.3.charax_pergamenus:37 fragment id 38 appears to have no Latin or Greek text
+urn:lofts:fhg.3.chryseros_nomenclator:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.claudius_caesar:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.claudius_caesar:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.claudius_caesar:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.claudius_eusthenes:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.cnaeus_aufidius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.cnaeus_aufidius:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor: fragment id 4 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:6 fragment id 8 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:15 fragment id 17 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:17 fragment id 19 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:27 fragment id 31 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:28 fragment id 32 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:29 fragment id 33 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:30 fragment id 34 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:30 fragment id 35 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:43 fragment id 50 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:50 fragment id 58 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:64 fragment id 72 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:84 fragment id 92 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:87 fragment id 95 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:111 fragment id 119 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:138 fragment id 149 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor: fragment id 150 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:140.a fragment id 153 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor: fragment id 161 appears to have no Latin or Greek text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:147 fragment id 162 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:148 fragment id 163 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:149 fragment id 164 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:151 fragment id 166 has no Latin text
+urn:lofts:fhg.3.cornelius_alexander_polyhistor:152 fragment id 167 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:4 fragment id 4 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:5 fragment id 5 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:6 fragment id 6 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:9 fragment id 16 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:10 fragment id 17 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:11 fragment id 18 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:11 fragment id 19 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:11 fragment id 20 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:12 fragment id 21 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:12 fragment id 22 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:12 fragment id 23 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:13 fragment id 24 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:14 fragment id 25 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:15 fragment id 26 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:17 fragment id 29 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:23 fragment id 35 has no Latin text
+urn:lofts:fhg.3.dexippus_atheniensis:25 fragment id 37 has no Latin text
+urn:lofts:fhg.3.diocles_peparethius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.diodorus_sardianus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.dionysius_pergamenus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.empylus_rhodius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.ephorus_cumanus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.euphorion_chalcidensis:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.euphorion_chalcidensis:8 fragment id 9 appears to have no Latin or Greek text
+urn:lofts:fhg.3.euphorion_chalcidensis:8 fragment id 10 has no Latin text
+urn:lofts:fhg.3.favorinus_arelatensis:10 fragment id 12 appears to have no Latin or Greek text
+urn:lofts:fhg.3.favorinus_arelatensis:43 fragment id 45 appears to have no Latin or Greek text
+urn:lofts:fhg.3.favorinus_arelatensis:45 fragment id 47 appears to have no Latin or Greek text
+urn:lofts:fhg.3.favorinus_arelatensis:49 fragment id 51 has no Latin text
+urn:lofts:fhg.3.hadrianus_caesar:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.hadrianus_caesar:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.hannibal_carthaginiensis: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.hegesianax_alexandrinus_e_troade:7 fragment id 7 has no Latin text
+urn:lofts:fhg.3.heraclides_lembus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.heraclides_lembus:6 fragment id 9 has no Latin text
+urn:lofts:fhg.3.hermippus_callimachius: fragment id 22 appears to have no Latin or Greek text
+urn:lofts:fhg.3.hermippus_callimachius:37 fragment id 43 has no Latin text
+urn:lofts:fhg.3.hermippus_callimachius:61 fragment id 70 has no Latin text
+urn:lofts:fhg.3.hermippus_callimachius:71 fragment id 80 appears to have no Latin or Greek text
+urn:lofts:fhg.3.hermippus_callimachius:79 fragment id 90 has no Latin text
+urn:lofts:fhg.3.hermippus_callimachius:80 fragment id 91 has no Latin text
+urn:lofts:fhg.3.hermippus_callimachius:82 fragment id 93 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:21 fragment id 22 appears to have no Latin or Greek text
+urn:lofts:fhg.3.juba_mauritanus:22 fragment id 23 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:25 fragment id 26 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:26 fragment id 27 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:27 fragment id 28 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:28 fragment id 29 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:29 fragment id 30 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:29 fragment id 31 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:31 fragment id 33 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:34 fragment id 37 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:35 fragment id 38 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:39 fragment id 42 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:39.a fragment id 43 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:40 fragment id 44 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:41 fragment id 45 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:42 fragment id 46 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:43 fragment id 47 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:44 fragment id 48 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:45 fragment id 49 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:46 fragment id 50 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:47 fragment id 51 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:48 fragment id 52 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:49 fragment id 53 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:50 fragment id 54 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:51 fragment id 55 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:52 fragment id 56 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:53 fragment id 57 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:54 fragment id 58 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:55 fragment id 59 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:56 fragment id 60 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:57 fragment id 61 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:58 fragment id 62 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:59 fragment id 63 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:60 fragment id 64 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:61 fragment id 65 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:62 fragment id 66 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:63 fragment id 67 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:63 fragment id 68 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:64 fragment id 69 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:65 fragment id 70 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:67 fragment id 72 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:68 fragment id 73 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:68.a fragment id 74 has no Latin text
+urn:lofts:fhg.3.juba_mauritanus:70 fragment id 76 appears to have no Latin or Greek text
+urn:lofts:fhg.3.juba_mauritanus:75 fragment id 82 has no Latin text
+urn:lofts:fhg.3.judas: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.justus_tiberiensis: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.l_cincius_alimentus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.l_cincius_alimentus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.l_cincius_alimentus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.3.l_cincius_alimentus:5 fragment id 5 has no Latin text
+urn:lofts:fhg.3.l_cincius_alimentus:6 fragment id 6 has no Latin text
+urn:lofts:fhg.3.l_cincius_alimentus:7 fragment id 7 has no Latin text
+urn:lofts:fhg.3.l_cincius_alimentus:8 fragment id 8 has no Latin text
+urn:lofts:fhg.3.lucius_lucullus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.lupercus_berytius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.lysimachus_alexandrinus:17.a fragment id 20 has no Latin text
+urn:lofts:fhg.3.lysimachus_alexandrinus: fragment id 29 appears to have no Latin or Greek text
+urn:lofts:fhg.3.lysimachus_alexandrinus:26 fragment id 30 has no Latin text
+urn:lofts:fhg.3.marcus_tullius_cicero: fragment id 1 appears to have no Latin or Greek text
+data/xml/MEMNON.xml does not use the 'fragment' tag
+urn:lofts:fhg.3.metrodorus_scepsius:5 fragment id 5 has no Latin text
+urn:lofts:fhg.3.metrodorus_scepsius:6 fragment id 6 has no Latin text
+urn:lofts:fhg.3.metrodorus_scepsius:7 fragment id 7 has no Latin text
+urn:lofts:fhg.3.metrodorus_scepsius:7.a fragment id 8 has no Latin text
+urn:lofts:fhg.3.metrodorus_scepsius:8 fragment id 9 has no Latin text
+urn:lofts:fhg.3.metrodorus_scepsius:9 fragment id 10 has no Latin text
+urn:lofts:fhg.3.metrodorus_scepsius:11 fragment id 12 has no Latin text
+urn:lofts:fhg.3.mnaseas_patrensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.mnaseas_patrensis:2 fragment id 3 has no Latin text
+urn:lofts:fhg.3.mnaseas_patrensis:16 fragment id 18 has no Latin text
+urn:lofts:fhg.3.mnaseas_patrensis:27 fragment id 32 has no Latin text
+urn:lofts:fhg.3.mnaseas_patrensis:34 fragment id 39 has no Latin text
+urn:lofts:fhg.3.mnaseas_patrensis:41 fragment id 46 has no Latin text
+urn:lofts:fhg.3.mnaseas_patrensis:42 fragment id 47 has no Latin text
+urn:lofts:fhg.3.mnaseas_patrensis:44 fragment id 50 appears to have no Latin or Greek text
+urn:lofts:fhg.3.mnaseas_patrensis:50 fragment id 56 has no Latin text
+urn:lofts:fhg.3.mnesiptolemus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.neanthes_cyzicenus_lysimachus:2 fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.3.neanthes_cyzicenus_lysimachus:2 fragment id 3 has no Latin text
+urn:lofts:fhg.3.neanthes_cyzicenus_lysimachus:3 fragment id 5 has no Latin text
+urn:lofts:fhg.3.neanthes_cyzicenus_lysimachus:33 fragment id 36 has no Latin text
+urn:lofts:fhg.3.nicagoras_atheniensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.nicagoras_atheniensis:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.nicagoras_atheniensis:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.nicagoras_atheniensis:4 fragment id 4 has no Latin text
+urn:lofts:fhg.3.nicolaus_damascenus:55 fragment id 63 has no Latin text
+urn:lofts:fhg.3.nicolaus_damascenus:73 fragment id 81 has no Latin text
+urn:lofts:fhg.3.nicolaus_damascenus:124 fragment id 135 has no Latin text
+urn:lofts:fhg.3.nicomachus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.nicostratus_trapezuntius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.numerius_fabius_pictor:20 fragment id 1 has no Latin text
+urn:lofts:fhg.3.numerius_fabius_pictor:22 fragment id 3 has no Latin text
+urn:lofts:fhg.3.numerius_fabius_pictor:23 fragment id 4 has no Latin text
+urn:lofts:fhg.3.numerius_fabius_pictor:24 fragment id 5 has no Latin text
+urn:lofts:fhg.3.numerius_fabius_pictor:25 fragment id 6 has no Latin text
+urn:lofts:fhg.3.numerius_fabius_pictor:26 fragment id 7 has no Latin text
+urn:lofts:fhg.3.numerius_fabius_pictor:27 fragment id 8 has no Latin text
+urn:lofts:fhg.3.nymphis_heracleota:3 fragment id 3 appears to have no Latin or Greek text
+urn:lofts:fhg.3.nymphis_heracleota:5 fragment id 5 appears to have no Latin or Greek text
+urn:lofts:fhg.3.nymphis_heracleota:7 fragment id 7 appears to have no Latin or Greek text
+urn:lofts:fhg.3.nymphis_heracleota:8 fragment id 8 appears to have no Latin or Greek text
+urn:lofts:fhg.3.nymphis_heracleota:11 fragment id 13 has no Latin text
+urn:lofts:fhg.3.onasimus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.onasimus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.onasimus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.onasimus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.3.onasimus:5 fragment id 5 has no Latin text
+urn:lofts:fhg.3.onasimus:5 fragment id 6 has no Latin text
+urn:lofts:fhg.3.p_cornelius_scipio: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.pallas:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.pamphila_epidauria:7 fragment id 7 has no Latin text
+urn:lofts:fhg.3.pamphila_epidauria:9 fragment id 9 has no Latin text
+urn:lofts:fhg.3.philostephanus_cyrenaeus:14 fragment id 15 has no Latin text
+urn:lofts:fhg.3.philostephanus_cyrenaeus:16 fragment id 17 has no Latin text
+urn:lofts:fhg.3.philostephanus_cyrenaeus:26 fragment id 27 has no Latin text
+urn:lofts:fhg.3.philostephanus_cyrenaeus:28 fragment id 29 has no Latin text
+urn:lofts:fhg.3.philostephanus_cyrenaeus:29 fragment id 30 has no Latin text
+urn:lofts:fhg.3.philostephanus_cyrenaeus:38 fragment id 39 has no Latin text
+urn:lofts:fhg.3.philo_byblius:15.a fragment id 28 has no Latin text
+urn:lofts:fhg.3.philo_byblius:16 fragment id 30 has no Latin text
+urn:lofts:fhg.3.philo_byblius:16 fragment id 32 has no Latin text
+urn:lofts:fhg.3.phlegon_trallianus:15 fragment id 15 has no Latin text
+urn:lofts:fhg.3.phlegon_trallianus:15 fragment id 16 has no Latin text
+urn:lofts:fhg.3.phlegon_trallianus:65 fragment id 30 has no Latin text
+urn:lofts:fhg.3.polemo_iliensis: fragment id 12 appears to have no Latin or Greek text
+urn:lofts:fhg.3.polemo_iliensis: fragment id 21 appears to have no Latin or Greek text
+urn:lofts:fhg.3.polemo_iliensis: fragment id 30 appears to have no Latin or Greek text
+urn:lofts:fhg.3.polemo_iliensis:29 fragment id 33 appears to have no Latin or Greek text
+urn:lofts:fhg.3.polemo_iliensis: fragment id 38 appears to have no Latin or Greek text
+urn:lofts:fhg.3.polemo_iliensis:37 fragment id 42 has no Latin text
+urn:lofts:fhg.3.polemo_iliensis:42 fragment id 51 has no Latin text
+urn:lofts:fhg.3.polemo_iliensis:44 fragment id 55 has no Latin text
+urn:lofts:fhg.3.polemo_iliensis:56 fragment id 68 has no Latin text
+urn:lofts:fhg.3.polemo_iliensis:72 fragment id 85 has no Latin text
+urn:lofts:fhg.3.polemo_iliensis:74 fragment id 87 appears to have no Latin or Greek text
+urn:lofts:fhg.3.polyaenus_sardianus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.porphyrius_tyrius:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.porphyrius_tyrius:5 fragment id 5 has no Latin text
+urn:lofts:fhg.3.porphyrius_tyrius:6 fragment id 7 has no Latin text
+urn:lofts:fhg.3.posidonius_apamensis:14 fragment id 15 has no Latin text
+urn:lofts:fhg.3.posidonius_apamensis:31 fragment id 33 has no Latin text
+urn:lofts:fhg.3.posidonius_apamensis:44 fragment id 48 has no Latin text
+urn:lofts:fhg.3.posidonius_apamensis:60 fragment id 64 appears to have no Latin or Greek text
+urn:lofts:fhg.3.posidonius_apamensis:64 fragment id 68 has no Latin text
+urn:lofts:fhg.3.posidonius_apamensis:69 fragment id 75 has no Latin text
+urn:lofts:fhg.3.posidonius_apamensis:87 fragment id 93 has no Latin text
+urn:lofts:fhg.3.posidonius_apamensis:93 fragment id 99 has no Latin text
+urn:lofts:fhg.3.potamo_mytilenaeus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.promathidas_heracleota:2 fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.3.promathidas_heracleota:7 fragment id 8 appears to have no Latin or Greek text
+urn:lofts:fhg.3.psaon_plataeensis: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.ptolemaeus_evergetes_ii:5 fragment id 5 appears to have no Latin or Greek text
+urn:lofts:fhg.3.ptolemaeus_megalopolitanus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.ptolemaeus_megalopolitanus:1 fragment id 2 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:7 fragment id 7 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:8 fragment id 8 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:9 fragment id 9 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:10 fragment id 10 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:11 fragment id 11 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:12 fragment id 12 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:13 fragment id 13 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:14 fragment id 14 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus:15 fragment id 15 has no Latin text
+urn:lofts:fhg.3.publius_rutilius_rufus: fragment id 16 appears to have no Latin or Greek text
+urn:lofts:fhg.3.quintus_fabius_pictor:6 fragment id 8 has no Latin text
+urn:lofts:fhg.3.quintus_fabius_pictor:10 fragment id 12 has no Latin text
+urn:lofts:fhg.3.quintus_fabius_pictor:12 fragment id 14 has no Latin text
+urn:lofts:fhg.3.quintus_fabius_pictor:13 fragment id 15 has no Latin text
+urn:lofts:fhg.3.quintus_fabius_pictor:14 fragment id 16 has no Latin text
+urn:lofts:fhg.3.quintus_fabius_pictor:15 fragment id 17 appears to have no Latin or Greek text
+urn:lofts:fhg.3.quintus_fabius_pictor:17 fragment id 19 has no Latin text
+urn:lofts:fhg.3.quintus_fabius_pictor:17 fragment id 20 has no Latin text
+urn:lofts:fhg.3.quintus_fabius_pictor:19 fragment id 22 has no Latin text
+urn:lofts:fhg.3.satyrus:10 fragment id 13 has no Latin text
+urn:lofts:fhg.3.satyrus:13 fragment id 16 appears to have no Latin or Greek text
+urn:lofts:fhg.3.satyrus:22 fragment id 25 has no Latin text
+urn:lofts:fhg.3.satyrus:23 fragment id 26 has no Latin text
+urn:lofts:fhg.3.satyrus:24 fragment id 27 has no Latin text
+urn:lofts:fhg.3.satyrus:25 fragment id 28 has no Latin text
+urn:lofts:fhg.3.scylax_caryandensis: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.seleucus_alexandrinus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.seleucus_alexandrinus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.seleucus_alexandrinus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.seleucus_alexandrinus:3 fragment id 4 has no Latin text
+urn:lofts:fhg.3.severus_imperator:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.severus_imperator:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.severus_imperator:3 fragment id 4 has no Latin text
+urn:lofts:fhg.3.severus_imperator:3 fragment id 5 has no Latin text
+urn:lofts:fhg.3.severus_imperator:3 fragment id 6 has no Latin text
+urn:lofts:fhg.3.severus_imperator:3 fragment id 7 has no Latin text
+urn:lofts:fhg.3.severus_imperator:3 fragment id 8 has no Latin text
+urn:lofts:fhg.3.silenus_calactinus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.silenus_calactinus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.3.silenus_calactinus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.silenus_calactinus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.3.strabo_amasensis:1 fragment id 3 appears to have no Latin or Greek text
+urn:lofts:fhg.3.strabo_amasensis:4 fragment id 6 has no Latin text
+urn:lofts:fhg.3.strabo_amasensis:10 fragment id 12 appears to have no Latin or Greek text
+urn:lofts:fhg.3.strabo_amasensis:12 fragment id 14 appears to have no Latin or Greek text
+urn:lofts:fhg.3.strabo_amasensis:12 fragment id 15 appears to have no Latin or Greek text
+urn:lofts:fhg.3.strabo_amasensis:13 fragment id 17 has no Latin text
+urn:lofts:fhg.3.strabo_amasensis:13 fragment id 18 has no Latin text
+urn:lofts:fhg.3.strabo_amasensis:13 fragment id 19 has no Latin text
+urn:lofts:fhg.3.strato: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.thallus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.thallus:1 fragment id 2 has no Latin text
+urn:lofts:fhg.3.thallus:1 fragment id 3 has no Latin text
+urn:lofts:fhg.3.thallus:1 fragment id 4 has no Latin text
+urn:lofts:fhg.3.thallus:2 fragment id 6 has no Latin text
+urn:lofts:fhg.3.thallus:2 fragment id 7 has no Latin text
+urn:lofts:fhg.3.thallus:5 fragment id 10 appears to have no Latin or Greek text
+urn:lofts:fhg.3.thallus:7 fragment id 12 has no Latin text
+urn:lofts:fhg.3.theocles:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.theodorus_gadarenus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.3.thrasyllus_mendesius:1 fragment id 2 has no Latin text
+urn:lofts:fhg.3.timagenes_alexandrinus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.3.timagenes_alexandrinus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.3.timagenes_alexandrinus:7 fragment id 7 has no Latin text
+urn:lofts:fhg.3.timagenes_alexandrinus:8 fragment id 8 has no Latin text
+urn:lofts:fhg.3.timagenes_alexandrinus:10 fragment id 10 has no Latin text
+urn:lofts:fhg.3.timagenes_alexandrinus:11.a fragment id 11 has no Latin text
+urn:lofts:fhg.3.timagenes_alexandrinus:11 fragment id 12 has no Latin text
+urn:lofts:fhg.3.timagenes_alexandrinus:12 fragment id 13 has no Latin text

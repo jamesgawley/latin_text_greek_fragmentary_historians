@@ -1,0 +1,77 @@
+data/xml/AGATHANGE.xml does not use the 'fragment' tag
+urn:lofts:fhg.5-2.bardesane:1 fragment id 1 has no Latin text
+urn:lofts:fhg.5-2.bardesane:2 fragment id 2 has no Latin text
+urn:lofts:fhg.5-2.bardesane:3 fragment id 3 has no Latin text
+urn:lofts:fhg.5-2.bardesane:4 fragment id 4 has no Latin text
+urn:lofts:fhg.5-2.bardesane:5 fragment id 5 has no Latin text
+urn:lofts:fhg.5-2.bardesane:6 fragment id 6 has no Latin text
+urn:lofts:fhg.5-2.bardesane:7 fragment id 7 has no Latin text
+urn:lofts:fhg.5-2.bardesane:8 fragment id 8 has no Latin text
+urn:lofts:fhg.5-2.bardesane:9 fragment id 9 has no Latin text
+urn:lofts:fhg.5-2.bardesane:1.a fragment id 10 has no Greek text
+urn:lofts:fhg.5-2.bardesane:1.b fragment id 11 has no Greek text
+urn:lofts:fhg.5-2.bardesane:1.c fragment id 12 has no Greek text
+urn:lofts:fhg.5-2.bardesane:1.d fragment id 13 has no Greek text
+urn:lofts:fhg.5-2.bardesane:1.e fragment id 14 has no Greek text
+urn:lofts:fhg.5-2.bardesane:1.f fragment id 15 has no Greek text
+urn:lofts:fhg.5-2.bardesane:2 fragment id 16 has no Greek text
+urn:lofts:fhg.5-2.bardesane:3 fragment id 17 has no Greek text
+urn:lofts:fhg.5-2.bardesane:1 fragment id 20 has no Latin text
+urn:lofts:fhg.5-2.bardesane:2 fragment id 21 has no Latin text
+urn:lofts:fhg.5-2.bardesane:3 fragment id 22 has no Latin text
+urn:lofts:fhg.5-2.bardesane:4 fragment id 23 has no Latin text
+urn:lofts:fhg.5-2.bardesane:5 fragment id 24 has no Latin text
+urn:lofts:fhg.5-2.bardesane:1 fragment id 25 has no Greek text
+data/xml/GREGOIRE_MAGISTROS_DUC_DE_LA_MESOPOTAMIE.xml does not use the 'fragment' tag
+data/xml/JEAN_MAMIGONIEN.xml does not use the 'fragment' tag
+urn:lofts:fhg.5-2.leroubna_d_edesse:1 fragment id 1 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:2 fragment id 2 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:3 fragment id 3 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:4 fragment id 4 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:5 fragment id 5 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:6 fragment id 6 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:7 fragment id 7 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:8 fragment id 8 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:9 fragment id 9 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:10 fragment id 10 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:11 fragment id 11 has no Greek text
+urn:lofts:fhg.5-2.leroubna_d_edesse:1.a fragment id 12 has no Latin text
+urn:lofts:fhg.5-2.leroubna_d_edesse:1.b fragment id 13 has no Latin text
+data/xml/LE_PSEUDO-CALLISTHENES.xml does not use the 'fragment' tag
+urn:lofts:fhg.5-2.mar_apas_catina:i fragment id 1 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:ii fragment id 2 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:iii fragment id 3 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:iv fragment id 4 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:v fragment id 5 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:vi fragment id 6 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:vii fragment id 7 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:viii fragment id 8 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:ix fragment id 9 appears to have no Latin or Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:x fragment id 10 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xi fragment id 11 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xii fragment id 12 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xiii fragment id 13 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xiv fragment id 14 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xv fragment id 15 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xvi fragment id 16 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xvii fragment id 17 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xviii fragment id 18 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xix fragment id 19 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xx fragment id 20 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxi fragment id 21 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxii fragment id 22 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxiii fragment id 23 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxiv fragment id 24 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxv fragment id 25 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxvi fragment id 26 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxvii fragment id 27 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxviii fragment id 28 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxix fragment id 29 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxx fragment id 30 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxxi fragment id 31 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxxii fragment id 32 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxxiii fragment id 33 has no Greek text
+urn:lofts:fhg.5-2.mar_apas_catina:xxxiv fragment id 34 has no Greek text
+data/xml/MOISE_DE_KHORENE.xml does not use the 'fragment' tag
+data/xml/SAINT_EPIPHANE_EVEQUE_DE_SALAMINE_EN_CHYPRE.xml does not use the 'fragment' tag
+data/xml/ZENOB_DE_GLAG.xml does not use the 'fragment' tag

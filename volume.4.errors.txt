@@ -1,0 +1,554 @@
+urn:lofts:fhg.4.abas:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.abron_vel_habron_batiensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.abydenus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.abydenus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.abydenus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.abydenus:6 fragment id 6 has no Latin text
+urn:lofts:fhg.4.abydenus:7 fragment id 7 has no Latin text
+urn:lofts:fhg.4.abydenus:8 fragment id 8 has no Latin text
+urn:lofts:fhg.4.abydenus:10 fragment id 10 has no Latin text
+urn:lofts:fhg.4.abydenus:10.a fragment id 11 has no Latin text
+urn:lofts:fhg.4.abydenus:11 fragment id 12 has no Latin text
+urn:lofts:fhg.4.abydenus:12 fragment id 13 has no Latin text
+urn:lofts:fhg.4.acestodorus_vel_acestorides: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.adaeus_mytilenaeus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.aelius_harpocration:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.aeneas: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.agathocles_cyzicenus_vel_babylonius:8 fragment id 8 has no Latin text
+urn:lofts:fhg.4.agathocles_cyzicenus_vel_babylonius:8 fragment id 9 has no Latin text
+urn:lofts:fhg.4.agathocles_cyzicenus_vel_babylonius:10 fragment id 11 has no Latin text
+urn:lofts:fhg.4.agathonymus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.aglaosthenes:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.aglaosthenes:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.aglaosthenes:1 fragment id 3 has no Latin text
+urn:lofts:fhg.4.aglaosthenes:2 fragment id 4 has no Latin text
+urn:lofts:fhg.4.aglaosthenes:2 fragment id 5 has no Latin text
+urn:lofts:fhg.4.aglaosthenes:3 fragment id 6 has no Latin text
+urn:lofts:fhg.4.aglaosthenes:4 fragment id 8 has no Latin text
+urn:lofts:fhg.4.aglaosthenes:5 fragment id 9 appears to have no Latin or Greek text
+urn:lofts:fhg.4.agriopas: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.alcimus_siculus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.alcimus_siculus:6 fragment id 6 has no Latin text
+urn:lofts:fhg.4.alexarchus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.amphicrates_atheniensis:2 fragment id 3 has no Latin text
+urn:lofts:fhg.4.amphicrates_atheniensis:2 fragment id 4 has no Latin text
+urn:lofts:fhg.4.amphilochus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.anaxicrates:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.anaxilaus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.andronicus_alypius:1 fragment id 1 has no Latin text
+data/xml/ANONYMUS_QUI_DIONIS_CASSII_HISTORIAS_CONTINUAVIT.xml does not use the 'fragment' tag
+urn:lofts:fhg.4.antenor:2 fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.4.antigonus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.antimachus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.antiochus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.apellas_sive_apollas_ponticus:6 fragment id 6 appears to have no Latin or Greek text
+urn:lofts:fhg.4.apellas_sive_apollas_ponticus:7 fragment id 7 has no Latin text
+urn:lofts:fhg.4.apollodorus_erythraeus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.apollonides_horapion:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.apollonius_acharnenses: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.apollonius_ascalonita: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.apollonius_rhodius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.archemachus_euboeus:5 fragment id 5 has no Latin text
+urn:lofts:fhg.4.aretes_dyrrachinus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.aretes_dyrrachinus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.ariaethus_tegeata:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.aristeas_argivus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.aristides_milesius:8 fragment id 8 appears to have no Latin or Greek text
+urn:lofts:fhg.4.aristides_milesius:26 fragment id 26 has no Latin text
+urn:lofts:fhg.4.aristides_milesius:26 fragment id 27 has no Latin text
+urn:lofts:fhg.4.aristides_milesius:32 fragment id 33 appears to have no Latin or Greek text
+urn:lofts:fhg.4.aristides_milesius:33 fragment id 35 has no Latin text
+urn:lofts:fhg.4.aristides_milesius:33 fragment id 36 has no Latin text
+urn:lofts:fhg.4.aristocles:12 fragment id 13 has no Latin text
+urn:lofts:fhg.4.aristocreon:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.aristocreon:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.aristocritus:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.aristonicus_tarentinus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.aristonymus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.artemidorus_ascalonita: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.artemon_cassandrensis:9 fragment id 1 has no Latin text
+urn:lofts:fhg.4.artemon_cassandrensis:10 fragment id 2 has no Latin text
+urn:lofts:fhg.4.artemon_cassandrensis:11 fragment id 3 has no Latin text
+urn:lofts:fhg.4.artemon_cassandrensis:12 fragment id 4 has no Latin text
+urn:lofts:fhg.4.artemon_cassandrensis:13 fragment id 5 has no Latin text
+urn:lofts:fhg.4.artemon_cassandrensis:14 fragment id 6 has no Latin text
+urn:lofts:fhg.4.artemon_pergamenus:3 fragment id 1 has no Latin text
+urn:lofts:fhg.4.artemon_pergamenus:4 fragment id 2 has no Latin text
+urn:lofts:fhg.4.artemon_pergamenus:5 fragment id 3 has no Latin text
+urn:lofts:fhg.4.artemon_pergamenus:6 fragment id 4 has no Latin text
+urn:lofts:fhg.4.artemon_pergamenus:7 fragment id 5 has no Latin text
+urn:lofts:fhg.4.artemon_pergamenus:8 fragment id 6 has no Latin text
+urn:lofts:fhg.4.astynomus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.astynomus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.athenaeus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.athenocles: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.augeas: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.basilis:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.bemarchius_caesariensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.bion_solensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.bion_solensis:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.bion_solensis:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.bion_solensis:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.botryas_myndius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.bruttius_sive_brettius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.butorides: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.caemaro: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.callicrates: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.callidemus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.calliphanes:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.cassander_salaminius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.cercidas_megalopolitanus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.cercidas_megalopolitanus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.charon_naucratites:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.chrestodemus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.christodorus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.claudius_theon: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.clemens:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.cleobulus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.cleophorus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.clinias:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.clitophon_rhodius:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.clodius_neapolitanus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.conon:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.conon:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.critolaus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.critolaus:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.ctesiphon:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.ctesiphon:4 fragment id 5 appears to have no Latin or Greek text
+urn:lofts:fhg.4.cydippus_mantinensis: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.dalion:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.dalion:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.demaratus:6 fragment id 8 has no Latin text
+urn:lofts:fhg.4.demetrius_erythraeus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.demetrius_iliensis: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.demetrius_odessanus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.demoteles:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.dercylus_argivus:1 fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.dieuchidas:2 fragment id 3 has no Latin text
+urn:lofts:fhg.4.dinarchus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.dinarchus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.dinarchus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.dinarchus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.dinarchus:5 fragment id 5 has no Latin text
+urn:lofts:fhg.4.dinarchus:6 fragment id 6 has no Latin text
+urn:lofts:fhg.4.diogenes_sicyonius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.dionysius_chalcidensis:2 fragment id 3 has no Latin text
+urn:lofts:fhg.4.dionysius_chalcidensis:9 fragment id 11 has no Latin text
+urn:lofts:fhg.4.dion_academicus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.diophantus_lacedaemonius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.diophantus_lacedaemonius:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.domitius_callistratus:8 fragment id 9 appears to have no Latin or Greek text
+urn:lofts:fhg.4.domitius_callistratus:10 fragment id 11 has no Latin text
+urn:lofts:fhg.4.dosiades:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.draco:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.echephylidas:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.epaphus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.erxias:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.euanoridas_eleus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:7 fragment id 9 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:34 fragment id 42 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:34 fragment id 43 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:65 fragment id 80 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:65 fragment id 81 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:92 fragment id 113 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:93 fragment id 117 has no Latin text
+urn:lofts:fhg.4.eunapius_sardianus:103 fragment id 128 has no Latin text
+urn:lofts:fhg.4.eustochius_cappadox:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.euthymenes:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.euthymenes:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.euthymenes:5 fragment id 5 has no Latin text
+urn:lofts:fhg.4.glaucippus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.gorgias_atheniensis:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.harmodius_lepreates:4 fragment id 5 has no Latin text
+urn:lofts:fhg.4.hegemon_alexandrensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.hegesidemus_cythnius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.hegesippus_mecybernaeus:2 fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.4.heraclitus_lesbius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.hermesianax_colophonius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.heron_atheniensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.hiero: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.hippostratus:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.hyperochus_cumanus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.hypsicrates: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.isigonus_nicaeensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.isigonus_nicaeensis:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.isigonus_nicaeensis:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.isigonus_nicaeensis:20 fragment id 20 appears to have no Latin or Greek text
+urn:lofts:fhg.4.joannes_antiochenus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:5 fragment id 5 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:6 fragment id 6 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:7 fragment id 7 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:7 fragment id 8 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:8 fragment id 9 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:9 fragment id 10 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:10 fragment id 11 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:11 fragment id 12 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:12 fragment id 13 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:13 fragment id 14 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:14 fragment id 15 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:15 fragment id 16 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:16 fragment id 17 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:17 fragment id 18 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:18 fragment id 19 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:19 fragment id 20 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:20 fragment id 21 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:21 fragment id 22 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:22 fragment id 23 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:23 fragment id 24 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:24 fragment id 25 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:25 fragment id 26 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:26 fragment id 27 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:27 fragment id 28 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:28 fragment id 29 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:29 fragment id 30 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:30 fragment id 31 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:31 fragment id 32 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:32 fragment id 33 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:33 fragment id 34 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:34 fragment id 35 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:35 fragment id 36 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:36 fragment id 37 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:37 fragment id 38 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:38 fragment id 39 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:39 fragment id 40 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:40 fragment id 41 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:41 fragment id 42 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:41 fragment id 43 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:41 fragment id 44 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:42 fragment id 45 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:42 fragment id 46 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:43 fragment id 47 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:44 fragment id 48 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:45 fragment id 49 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:46 fragment id 50 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:47 fragment id 51 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:48 fragment id 52 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:49 fragment id 53 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:50 fragment id 54 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:51 fragment id 55 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:52 fragment id 56 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:52 fragment id 57 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:53 fragment id 58 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:54 fragment id 59 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:55 fragment id 60 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:56 fragment id 61 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:57 fragment id 62 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:58 fragment id 63 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:59 fragment id 64 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:60 fragment id 65 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:61 fragment id 66 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:62 fragment id 67 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:63 fragment id 68 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:64 fragment id 69 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:65 fragment id 70 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:66 fragment id 71 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:67 fragment id 72 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:68 fragment id 73 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:69 fragment id 74 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:70 fragment id 75 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:71 fragment id 76 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:72 fragment id 77 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:72.a fragment id 78 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:73 fragment id 79 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:74 fragment id 80 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:75 fragment id 81 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:76 fragment id 82 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:77 fragment id 83 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:78 fragment id 84 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:79 fragment id 85 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:79.a fragment id 86 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:79.b fragment id 87 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:80 fragment id 88 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:81 fragment id 89 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:82 fragment id 90 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:83 fragment id 91 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:84 fragment id 92 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:85 fragment id 93 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:86 fragment id 94 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:87 fragment id 95 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:88 fragment id 96 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:89 fragment id 97 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:90 fragment id 98 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:91 fragment id 99 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:92 fragment id 100 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:93 fragment id 101 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:94 fragment id 102 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:95 fragment id 103 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:96 fragment id 104 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:97 fragment id 105 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:98 fragment id 106 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:99 fragment id 107 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:100 fragment id 108 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:101 fragment id 109 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:102 fragment id 110 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:103 fragment id 111 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:104 fragment id 112 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:105 fragment id 113 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:106 fragment id 114 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:107 fragment id 115 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:108 fragment id 116 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:109 fragment id 117 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:110 fragment id 118 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:111 fragment id 119 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:112 fragment id 120 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:113 fragment id 121 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:114 fragment id 122 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:115 fragment id 123 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:116 fragment id 124 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:117 fragment id 125 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:118 fragment id 126 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:119 fragment id 127 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:120 fragment id 128 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:121 fragment id 129 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:122 fragment id 130 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:123 fragment id 131 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:124 fragment id 132 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:125 fragment id 133 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:126 fragment id 134 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:127 fragment id 135 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:128 fragment id 136 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:129 fragment id 137 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:130 fragment id 138 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:131 fragment id 139 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:132 fragment id 140 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:133 fragment id 141 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:134 fragment id 142 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:135 fragment id 143 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:136 fragment id 144 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:137 fragment id 145 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:138 fragment id 146 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:139 fragment id 147 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:140 fragment id 148 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:141 fragment id 149 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:142 fragment id 150 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:143 fragment id 151 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:144 fragment id 152 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:145 fragment id 153 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:146 fragment id 154 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:146 fragment id 155 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:147 fragment id 156 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:148 fragment id 157 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:149 fragment id 158 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:150 fragment id 159 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:151 fragment id 160 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:152 fragment id 161 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:153 fragment id 162 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:154 fragment id 163 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:155 fragment id 164 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:156 fragment id 165 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:157 fragment id 166 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:158 fragment id 167 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:159 fragment id 168 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:160 fragment id 169 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:161 fragment id 170 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:162 fragment id 171 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:163 fragment id 172 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:164 fragment id 173 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:165 fragment id 174 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:166 fragment id 175 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:167 fragment id 176 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:168 fragment id 177 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:169 fragment id 178 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:170 fragment id 179 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:171 fragment id 180 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:171.a fragment id 181 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:172 fragment id 182 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:173 fragment id 183 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:174 fragment id 184 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:175 fragment id 185 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:176 fragment id 186 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:177 fragment id 187 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:178 fragment id 188 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:179 fragment id 189 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:180 fragment id 190 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:181 fragment id 191 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:182 fragment id 192 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:183 fragment id 193 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:184 fragment id 194 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:185 fragment id 195 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:186 fragment id 196 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:187 fragment id 197 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:188 fragment id 198 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:189 fragment id 199 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:190 fragment id 200 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:191 fragment id 201 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:192 fragment id 202 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:193 fragment id 203 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:194 fragment id 204 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:194 fragment id 205 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:195 fragment id 206 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:196 fragment id 207 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:197 fragment id 208 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:198 fragment id 209 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:199 fragment id 210 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:200 fragment id 211 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:201 fragment id 212 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:202 fragment id 213 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:203 fragment id 214 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:204 fragment id 215 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:205 fragment id 216 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:206 fragment id 217 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:207 fragment id 218 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:208 fragment id 219 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:209 fragment id 220 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:210 fragment id 221 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:211 fragment id 222 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:212 fragment id 223 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:213 fragment id 224 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:214 fragment id 225 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:215 fragment id 226 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:216 fragment id 227 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:217 fragment id 228 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:218 fragment id 229 has no Latin text
+urn:lofts:fhg.4.joannes_antiochenus:219 fragment id 230 has no Latin text
+data/xml/JOANNES_EPIPHANIENSIS.xml does not use the 'fragment' tag
+urn:lofts:fhg.4.lamiscus_samius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.laosthenidas:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.leonides:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.linus_oechaliensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.lyceas_naucratita:1 fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.lyceas_naucratita:2 fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.4.malchus_philadelphensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.malchus_philadelphensis:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.malchus_philadelphensis:21 fragment id 32 has no Latin text
+urn:lofts:fhg.4.malchus_philadelphensis:21 fragment id 33 has no Latin text
+urn:lofts:fhg.4.menander_ephesius: fragment id 7 appears to have no Latin or Greek text
+urn:lofts:fhg.4.menander_protector:70 fragment id 74 has no Latin text
+urn:lofts:fhg.4.menecles_barcaeus:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.menecles_barcaeus:3 fragment id 5 has no Latin text
+urn:lofts:fhg.4.menecles_barcaeus:6 fragment id 8 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:5 fragment id 5 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:6 fragment id 6 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:7 fragment id 7 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:8 fragment id 8 has no Latin text
+urn:lofts:fhg.4.menelaus_anaeus:9 fragment id 9 has no Latin text
+urn:lofts:fhg.4.menippus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.menyllus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.metrophanes:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.mnasigiton: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.mnesimachus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.mnesimachus:2 fragment id 3 has no Latin text
+urn:lofts:fhg.4.molpis_laco:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.monimus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.myes: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.myron_prienensis: fragment id 3 appears to have no Latin or Greek text
+urn:lofts:fhg.4.myron_prienensis:3 fragment id 4 has no Latin text
+urn:lofts:fhg.4.myron_prienensis:4 fragment id 5 has no Latin text
+urn:lofts:fhg.4.myrsilus_methymnaeus:6 fragment id 6 has no Latin text
+urn:lofts:fhg.4.myrsilus_methymnaeus:14 fragment id 17 has no Latin text
+urn:lofts:fhg.4.myrsilus_methymnaeus:15 fragment id 18 has no Latin text
+urn:lofts:fhg.4.nicias:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.nicias:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.nicias_maleotes:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.nicias_maleotes:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.nicias_maleotes:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.nicias_nicaeensis:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.nicias_nicaeensis:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.nicias_nicaeensis:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.nicias_nicaeensis:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.nicias_nicaeensis:5 fragment id 5 has no Latin text
+urn:lofts:fhg.4.nicocles_lacedaemonius:3 fragment id 5 has no Latin text
+urn:lofts:fhg.4.nicomachus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.nicomedes_acanthius: fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.4.pamphilus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.pappus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.parthax:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.parthax:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.parthax:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.pasiteles:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.pasiteles:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.pasiteles:2 fragment id 3 has no Latin text
+urn:lofts:fhg.4.pausanias_laco:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.paxamus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.petellides_cnossius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:5 fragment id 5 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:6 fragment id 6 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:7 fragment id 7 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:8 fragment id 8 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:9 fragment id 9 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:10 fragment id 10 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:11 fragment id 11 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:12 fragment id 12 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:13 fragment id 13 has no Latin text
+urn:lofts:fhg.4.petrus_patricius:9 fragment id 26 has no Latin text
+urn:lofts:fhg.4.phaestus:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.phanodicus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.pharnuchus_nisibenus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.philalius_corinthius: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.philemon:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.philemon:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.philetas_ephesius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.philetas_ephesius:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.philistides:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.philistides:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.philistides:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.philistides:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.philistus_naucratita:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.phillis_delius:5 fragment id 5 has no Latin text
+urn:lofts:fhg.4.philonides_philogenes:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.philteas:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.polycrates:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.polygnostus_sive_polygnotus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.polyzelus_rhodius:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.polyzelus_rhodius:2 fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.4.posidippus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.posidippus:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.posidippus:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.posidippus:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.praxion:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.priscus_panites:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.priscus_panites:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.priscus_panites:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.priscus_panites:3.a fragment id 7 has no Latin text
+urn:lofts:fhg.4.priscus_panites:9 fragment id 13 has no Latin text
+urn:lofts:fhg.4.priscus_panites:10 fragment id 14 has no Latin text
+urn:lofts:fhg.4.priscus_panites:17 fragment id 21 has no Latin text
+urn:lofts:fhg.4.priscus_panites:23 fragment id 28 has no Latin text
+urn:lofts:fhg.4.protarchus_trallianus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.pyrrhander:4 fragment id 4 has no Latin text
+urn:lofts:fhg.4.pyrrho_liparaeus: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.pythagoras: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.pythermus_ephesius:3 fragment id 3 appears to have no Latin or Greek text
+urn:lofts:fhg.4.pythocles_samius:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.scythinus_teius:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.seleucus_emesenus:1 fragment id 1 has no Latin text
+urn:lofts:fhg.4.semus_delius:5.a fragment id 7 has no Latin text
+urn:lofts:fhg.4.semus_delius:12 fragment id 16 has no Latin text
+urn:lofts:fhg.4.semus_delius:15 fragment id 19 has no Latin text
+urn:lofts:fhg.4.socrates_argivus:14 fragment id 15 appears to have no Latin or Greek text
+urn:lofts:fhg.4.socrates_cous:15.a fragment id 2 appears to have no Latin or Greek text
+urn:lofts:fhg.4.sosander: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.sosicrates:1 fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.sosicrates:6 fragment id 6 appears to have no Latin or Greek text
+urn:lofts:fhg.4.sosicrates:9 fragment id 9 has no Latin text
+urn:lofts:fhg.4.sostratus: fragment id 4 appears to have no Latin or Greek text
+urn:lofts:fhg.4.sostratus:4 fragment id 5 has no Latin text
+urn:lofts:fhg.4.sostratus:5 fragment id 6 has no Latin text
+urn:lofts:fhg.4.staphylus_naucratita:11 fragment id 11 has no Latin text
+urn:lofts:fhg.4.staphylus_naucratita:13 fragment id 14 has no Latin text
+urn:lofts:fhg.4.teucer_cyzicenus:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.theocles:2 fragment id 2 has no Latin text
+urn:lofts:fhg.4.theodori: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.theophilus:2 fragment id 3 has no Latin text
+urn:lofts:fhg.4.theophilus:7 fragment id 8 has no Latin text
+urn:lofts:fhg.4.timagetus:1 fragment id 2 has no Latin text
+urn:lofts:fhg.4.xenagoras:7 fragment id 7 has no Latin text
+urn:lofts:fhg.4.xenagoras:9 fragment id 9 has no Latin text
+urn:lofts:fhg.4.xenagoras:13 fragment id 15 has no Latin text
+urn:lofts:fhg.4.xenion:15 fragment id 15 has no Latin text
+urn:lofts:fhg.4.zenodotus_troezenius:3 fragment id 3 has no Latin text
+urn:lofts:fhg.4.zopyrion: fragment id 1 appears to have no Latin or Greek text
+urn:lofts:fhg.4.zopyrus_byzantius:6 fragment id 7 has no Latin text
