@@ -3,4 +3,4 @@ Latin translations of the Fragmenta Historicorum Graecorum by Müller. From XML 
 
 This repository contains Latin translations of Greek fragmentary texts. All text was originally digitized by Monica Berti, and the original XML and EpicDoc XML files can be found at https://github.com/dfhg-project. The present repository represents a conversion to .tess format, essentially unicode-8 plaintext with locus tags at the beginning of each line.
 
-These texts have parallels in Greek, which can be found at http://github.com/jamesgawley/greek_text_greek_fragmentary_historians.
+These texts have parallels in Greek, which can be found at http://github.com/jamesgawley/greek_text_greek_fragmentary_historians. There are more texts in the original print volumes (and therefore the XML digital version) than are present here. The absences, and the reasons for them, are noted in the files called volume._.errors.txt. Essentially, all Greek texts which have Latin translations in the print edition are present in these repositories, and everything that does not have a translation has been excluded.
